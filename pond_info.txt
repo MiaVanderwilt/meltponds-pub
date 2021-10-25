@@ -1,0 +1,27 @@
+ATL03 files:
+
+SET 1.:
+
+ATL03_20190726213326_04400404_004_01.h5 (RT paper ponds)
+--> delta_time bounds:[49412302.3, 49412302.65]
+--> delta_time bounds: [see paper]
+
+Sentinel-2 file: 20190726_T14XMQ.SAFE
+
+
+SET 2.:
+
+ATL03_20190730054214_04910404_004_01.h5
+--> lat_ph bounds: [82.5535, 82.5541]
+--> lat_ph bounds: [82.4736, 82.4743]
+--> lat_ph bounds: [82.3548, 82.3560]
+--> lat_ph bounds: [82.3353, 82.3360]
+
+Sentinel-2 file: S2B_T20XNS_20190622T213517.SAFE
+Shift ~160m shifted directly 'up' the beam path (never settled definitively)
+
+
+(TEST) SET 3: 
+
+ATL03 file: would have to run Marco's match.py program again to pin which one down.
+Sentinel-2 file: S2B_MSIL1C_20200716T213039_N0209_R086_T09XVF_20200716T231140
